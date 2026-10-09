@@ -1,5 +1,5 @@
 """
-DEEP LEARNING MINI PROJECT
+Build and Deploy ML MINI PROJECT
 Fashion Item Image Classification: Baseline Neural Network vs CNN
 Dataset : Fashion-MNIST (70,000 grayscale 28x28 images, 10 clothing classes)
 Library : TensorFlow / Keras
